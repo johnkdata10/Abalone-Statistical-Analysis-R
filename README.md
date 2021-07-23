@@ -1,7 +1,6 @@
 # Data Analysis #1 Overview:
 
-Two data analysis projects using abalone data are required in this course. The first project entails exploratory data analysis. The second project involves statistical inference using analysis of variance and linear regression. Binary decision rules will be evaluated and a Receiver Operating Characteristic (ROC) curve developed. These projects will require application of course concepts and use of R Studio and R Markdown resulting in submission of a .Rmd file and .html document.
-Topics covered during Sessions 1-5 pertain to the first analysis project. Assignment submissions are due the end of Session 5. The second project uses topics covered during Sessions 6-9. Assignment submissions are due at the end of the course.
+Two data analysis projects using abalone data are completed in this repository. The first project entails exploratory data analysis. The second project involves statistical inference using analysis of variance and linear regression. Binary decision rules will be evaluated and a Receiver Operating Characteristic (ROC) curve developed.
 
 ## Overall Background:
 We are bombarded daily with statements or claims arising from surveys and studies that use data to generate statistics. In a world where data are becoming more abundant every day, as an educated consumer, it is essential to think critically about the information we receive and the decisions that will be made based on that information. Part of this involves considering the source of the data, how it was collected, how it was analyzed and whatever limitations there may be to the conclusions reached and claims being made.
