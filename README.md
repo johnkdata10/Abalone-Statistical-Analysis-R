@@ -1,4 +1,4 @@
-# R Data Analysis Overview:
+# R EDA Abalone Statistical Analysis Overview:
 
 Two data analysis projects using abalone data are completed in this repository. The first data analysis project entails exploratory data analysis. The second data analysis project involves statistical inference using analysis of variance and linear regression. Binary decision rules will be evaluated and a Receiver Operating Characteristic (ROC) curve developed.
 
